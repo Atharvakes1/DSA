@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Atharvakes1/DSA/tree/master/2685-count-the-number-of-complete-components) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/Atharvakes1/DSA/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
