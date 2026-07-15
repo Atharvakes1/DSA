@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Atharvakes1/DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Atharvakes1/DSA/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvakes1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Atharvakes1/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
