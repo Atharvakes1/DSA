@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/Atharvakes1/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Atharvakes1/DSA/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/Atharvakes1/DSA/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Atharvakes1/DSA/tree/master/0507-perfect-number) |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Atharvakes1/DSA/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Atharvakes1/DSA/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Atharvakes1/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
