@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharvakes1/DSA/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
 | [0989-add-to-array-form-of-integer](https://github.com/Atharvakes1/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvakes1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/Atharvakes1/DSA/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
