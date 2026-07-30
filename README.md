@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Atharvakes1/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Atharvakes1/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Atharvakes1/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvakes1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Atharvakes1/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Atharvakes1/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Atharvakes1/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvakes1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Atharvakes1/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
