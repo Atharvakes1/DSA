@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Atharvakes1/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Atharvakes1/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Atharvakes1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Atharvakes1/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Atharvakes1/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Atharvakes1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Atharvakes1/DSA/tree/master/2363-merge-similar-items) |
 ## Sorting
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Atharvakes1/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Atharvakes1/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
