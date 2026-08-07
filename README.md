@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharvakes1/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/Atharvakes1/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Atharvakes1/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharvakes1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Atharvakes1/DSA/tree/master/0141-linked-list-cycle) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
@@ -145,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Atharvakes1/DSA/tree/master/0812-largest-triangle-area) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Atharvakes1/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Atharvakes1/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
