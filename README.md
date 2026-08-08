@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Atharvakes1/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvakes1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/Atharvakes1/DSA/tree/master/1929-concatenation-of-array) |
 | [2363-merge-similar-items](https://github.com/Atharvakes1/DSA/tree/master/2363-merge-similar-items) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Atharvakes1/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Atharvakes1/DSA/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Atharvakes1/DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
