@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Atharvakes1/DSA/tree/master/0724-find-pivot-index) |
 | [0812-largest-triangle-area](https://github.com/Atharvakes1/DSA/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Atharvakes1/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -161,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Atharvakes1/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Atharvakes1/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
