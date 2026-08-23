@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Atharvakes1/DSA/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Atharvakes1/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Atharvakes1/DSA/tree/master/1108-defanging-an-ip-address) |
+| [3110-score-of-a-string](https://github.com/Atharvakes1/DSA/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
