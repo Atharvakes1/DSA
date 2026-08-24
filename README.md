@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Atharvakes1/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Atharvakes1/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvakes1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Atharvakes1/DSA/tree/master/0412-fizz-buzz) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Atharvakes1/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Atharvakes1/DSA/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Atharvakes1/DSA/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Atharvakes1/DSA/tree/master/0541-reverse-string-ii) |
