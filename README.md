@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Atharvakes1/DSA/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0932-beautiful-array](https://github.com/Atharvakes1/DSA/tree/master/0932-beautiful-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Atharvakes1/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Atharvakes1/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Atharvakes1/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Atharvakes1/DSA/tree/master/2363-merge-similar-items) |
 ## Binary Search
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Atharvakes1/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharvakes1/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
