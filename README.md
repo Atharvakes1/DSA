@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Atharvakes1/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Atharvakes1/DSA/tree/master/0326-power-of-three) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Atharvakes1/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Atharvakes1/DSA/tree/master/0415-add-strings) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Atharvakes1/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Atharvakes1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Atharvakes1/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Atharvakes1/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Atharvakes1/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvakes1/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/Atharvakes1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Atharvakes1/DSA/tree/master/0342-power-of-four) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Atharvakes1/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
