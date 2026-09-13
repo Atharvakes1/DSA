@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Atharvakes1/DSA/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Atharvakes1/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Atharvakes1/DSA/tree/master/0326-power-of-three) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Atharvakes1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Atharvakes1/DSA/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Atharvakes1/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvakes1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Atharvakes1/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Atharvakes1/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
