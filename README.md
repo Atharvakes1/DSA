@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Atharvakes1/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Atharvakes1/DSA/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharvakes1/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Atharvakes1/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharvakes1/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Atharvakes1/DSA/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Atharvakes1/DSA/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0932-beautiful-array](https://github.com/Atharvakes1/DSA/tree/master/0932-beautiful-array) |
 ## Queue
 |  |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Atharvakes1/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Atharvakes1/DSA/tree/master/0070-climbing-stairs) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
