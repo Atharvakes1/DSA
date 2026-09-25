@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Atharvakes1/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Atharvakes1/DSA/tree/master/0485-max-consecutive-ones) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvakes1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Atharvakes1/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0706-design-hashmap](https://github.com/Atharvakes1/DSA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Atharvakes1/DSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Atharvakes1/DSA/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Atharvakes1/DSA/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/Atharvakes1/DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Atharvakes1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Atharvakes1/DSA/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Atharvakes1/DSA/tree/master/0400-nth-digit) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
 ## Simulation
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Atharvakes1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Atharvakes1/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Atharvakes1/DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Atharvakes1/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharvakes1/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
