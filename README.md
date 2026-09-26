@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Atharvakes1/DSA/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/Atharvakes1/DSA/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Atharvakes1/DSA/tree/master/0724-find-pivot-index) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Atharvakes1/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/Atharvakes1/DSA/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Atharvakes1/DSA/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Atharvakes1/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Atharvakes1/DSA/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Atharvakes1/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharvakes1/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Atharvakes1/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Atharvakes1/DSA/tree/master/1108-defanging-an-ip-address) |
 | [3110-score-of-a-string](https://github.com/Atharvakes1/DSA/tree/master/3110-score-of-a-string) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvakes1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 ## Geometry
 |  |
 | ------- |
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Atharvakes1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -332,4 +338,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Atharvakes1/DSA/tree/master/0455-assign-cookies) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
