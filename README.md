@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Atharvakes1/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0812-largest-triangle-area](https://github.com/Atharvakes1/DSA/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Atharvakes1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/Atharvakes1/DSA/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Atharvakes1/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Atharvakes1/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Atharvakes1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Atharvakes1/DSA/tree/master/2363-merge-similar-items) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Atharvakes1/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Atharvakes1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
