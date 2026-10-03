@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Atharvakes1/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Atharvakes1/DSA/tree/master/0485-max-consecutive-ones) |
+| [0498-diagonal-traverse](https://github.com/Atharvakes1/DSA/tree/master/0498-diagonal-traverse) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharvakes1/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Atharvakes1/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Atharvakes1/DSA/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/Atharvakes1/DSA/tree/master/0498-diagonal-traverse) |
 | [1929-concatenation-of-array](https://github.com/Atharvakes1/DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
@@ -366,4 +368,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Atharvakes1/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/Atharvakes1/DSA/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
