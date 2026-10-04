@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Atharvakes1/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0812-largest-triangle-area](https://github.com/Atharvakes1/DSA/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Atharvakes1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0932-beautiful-array](https://github.com/Atharvakes1/DSA/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Atharvakes1/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Atharvakes1/DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Atharvakes1/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Atharvakes1/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Atharvakes1/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvakes1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Atharvakes1/DSA/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 ## Geometry
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Atharvakes1/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Atharvakes1/DSA/tree/master/0932-beautiful-array) |
 ## Queue
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Atharvakes1/DSA/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Atharvakes1/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -364,9 +369,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Atharvakes1/DSA/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Atharvakes1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/Atharvakes1/DSA/tree/master/0498-diagonal-traverse) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Atharvakes1/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
