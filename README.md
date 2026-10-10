@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Atharvakes1/DSA/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Atharvakes1/DSA/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Atharvakes1/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Atharvakes1/DSA/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Atharvakes1/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Atharvakes1/DSA/tree/master/0326-power-of-three) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Atharvakes1/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/Atharvakes1/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Atharvakes1/DSA/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Atharvakes1/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Atharvakes1/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Atharvakes1/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Atharvakes1/DSA/tree/master/0389-find-the-difference) |
