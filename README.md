@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Atharvakes1/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Atharvakes1/DSA/tree/master/1929-concatenation-of-array) |
 | [2363-merge-similar-items](https://github.com/Atharvakes1/DSA/tree/master/2363-merge-similar-items) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Atharvakes1/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -407,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Atharvakes1/DSA/tree/master/1122-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Atharvakes1/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
